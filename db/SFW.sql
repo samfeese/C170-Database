@@ -1,0 +1,1 @@
+SELECT * FROM coffee WHERE shop_id=111;

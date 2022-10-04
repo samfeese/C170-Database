@@ -1,0 +1,1 @@
+CREATE INDEX idx_coffee_name ON coffee (coffee_name);
